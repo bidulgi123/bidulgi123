@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello
 
 # 💻 Tech Stack:
@@ -8,3 +7,14 @@ Hello
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bidulgi123&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eupppo)](https://solved.ac/eupppo/)
 
+# 💫 About Me:
+## Experience 
+BigLeader AI academy(데이터 청년 캠퍼스) 2022. 06. ~ 2022. 09.
+네이버 커넥트 소프트웨어야 놀자 멘토 2022. 12. ~ 2023. 02.
+SKT FLY AI Challenger 3기 2023. 06. ~ 2023. 09.
+
+## Award
+2022 경남 제조데이터 분석 경진대회 우수상(2022. 11. 06.)
+보행데이터 활용 헬스케어 AI 해커톤 장려상(2022. 11. 26.)
+정밀검사 효율화를 위한 선재 불량 예측 서비스 개발 -> 세아창원특수강 대표이사 표창장(2022. 12. 20.)
+3차 USG AI 데이터 문제해결 제조혁신 경진대회 장려상(2023. 04. 13.)
