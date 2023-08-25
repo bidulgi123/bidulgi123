@@ -5,9 +5,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bidulgi123&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eupppo)](https://solved.ac/eupppo/)
 
-# 💫 About Me:
 ## Experience 
-BigLeader AI academy(데이터 청년 캠퍼스) 2022. 06. ~ 2022. 09.<br>
+BigLeader AI Academy(데이터 청년 캠퍼스) 2022. 06. ~ 2022. 09.<br>
 네이버 커넥트 소프트웨어야 놀자 멘토 2022. 12. ~ 2023. 02.<br>
 SKT FLY AI Challenger 3기 2023. 06. ~ 2023. 09.<br>
 
